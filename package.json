@@ -1,0 +1,15 @@
+{
+  "name": "logs-processor",
+  "version": "1.0.0",
+  "description": "The goal of this challenge is to get some insights about our software from logs. The logs have sort of a custom format. You can choose whatever tool or language you want. You are also free to spread your solution across a single or multiple files.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lineReader": "^0.1.2",
+    "sqlite3": "^4.1.0"
+  }
+}
